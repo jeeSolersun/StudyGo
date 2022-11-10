@@ -8,3 +8,8 @@ func Study() {
 	var num2 int64 = int64(num) // 使用type()函数进行转换
 	fmt.Printf("num2: %v\n", num2)
 }
+
+func Study02() {
+	fmt.Printf("\"modify 01 on dev\": %v\n", "modify 01 on dev")
+
+}
