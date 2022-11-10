@@ -17,4 +17,6 @@ func Study() {
 
 func Study02() {
 	fmt.Printf("\"modify 01 on master\": %v\n", "modify 01 on master")
+
+	fmt.Printf("\"modify 02 on master\": %v\n", "modify 02 on master")
 }
