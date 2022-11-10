@@ -14,4 +14,5 @@ func Study02() {
 
 	fmt.Printf("\"modify 02 on dev\": %v\n", "modify 02 on dev")
 
+	fmt.Printf("\"modify 03 on dev\": %v\n", "modify 03 on dev")
 }
